@@ -1,5 +1,3 @@
-Jonathan Dorfman
-101241425
 YouTube demonstration link
 https://www.youtube.com/watch?v=2Mzi_37OCSo
 Installation:
