@@ -70,4 +70,4 @@ if __name__ == "__main__":
     #addStudent('Alice', 'Wonderland', 'alice@example.com', '2023-09-03')
     #updateStudentEmail(1, 'john.updated@example.com')
     #deleteStudent(2)
-    getAllStudents()
+    #getAllStudents()
